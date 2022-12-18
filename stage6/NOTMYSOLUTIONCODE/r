@@ -1,0 +1,12 @@
+first.kt solution is good solution. another solution not checked. learn about https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/fold.html
+some from solutions is bad solution like as in stage4 maybe
+also. about First.kt
+====
+$ kotlin calculator/FirstKt.class 
+1+
+Invalid expression
+1+1
+Invalid expression
+^Cternit@computer:~/kotlin/calcuvator/stage6/NOTMYSOLUTIONCODE$ 
+===
+
